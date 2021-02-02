@@ -48,6 +48,12 @@
             <li>  Click on the  "+" symbol add the token  </li>
             <li>  In the name section add Authorization and the value section add " Token 77eb8186b9b061dcfa66c683b92f36fb067167bc"  for example</li>
       </ul>
+      
+      ## preview of the login and Token authorization
+      ![Login_auth](Login_auth.PNG)
+      
+      ## preview of the ModHeader 
+      ![ModHeader](ModHeader.PNG)
   
   
   </ol>

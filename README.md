@@ -64,8 +64,16 @@
       
  ## preview after turning off token authorization in Modheader
    ![Disable_user_edit](Disabling_user_edit.PNG)
+   
+   
+<li> To change your password you can use this endpoint : http://127.0.0.1:8000/admin/password_change/   </li>
+    <ul>
+      <li> You need to put your previous password correctly in order to change your password </li>
+  </ul>
   
-  
+ ## preview of changing her password
+   ![Password change](password.PNG)
+   
   </ol>
   
 

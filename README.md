@@ -8,7 +8,6 @@
       <li>Email: pereirasean1811@gmail.com
       <li>Name: Sean Pereira
       <li>pass: pass1234
-
     </ul>
   </ol>
 

@@ -27,16 +27,28 @@
   ![Admin_login](admin_login_page.PNG)
   
   
-  <li> To view all the api list put this end point in the browser : http://127.0.0.1:8000/api/
+  <li> To view all the api list put this end point in the browser : http://127.0.0.1:8000/api/ </li>
   
-  <li> To view all the profile's created put this end point in the browser : http://127.0.0.1:8000/api/register/
+  <li> To view all the profile's created put this end point in the browser : http://127.0.0.1:8000/api/register/ </li>
   
-  <li> To edit information like 
+  <li> To edit information like the following details mentioned below, put the following endpoint http://127.0.0.1:8000/api/register/1/  '1' indicates id of that user </li>
          <ul>
             <li> Email </li>
             <li> Name  </li>
             <li> Password </li>
       </ul>
+      
+   <li> To add a new user and authenticate it, you need to add the following endpoint  http://127.0.0.1:8000/api/login/ </li>
+   
+   <li> Follwing that you will get a token for that user,which will enable that user to edit his/her profile. </li>
+   
+   <li> Copy that token in the Mode header extenstion. Following are the steps to put the token in the ModHeader </li>
+         <ul>
+            <li> Click on the ModHeader symbol in your browser </li>
+            <li>  Click on the  "+" symbol add the token  </li>
+            <li>  In the name section add Authorization and the value section add " Token 77eb8186b9b061dcfa66c683b92f36fb067167bc"  for example</li>
+      </ul>
+  
   
   </ol>
   

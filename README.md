@@ -9,7 +9,10 @@
       <li>Name: Sean Pereira
       <li>pass: pass1234
     </ul>
+  <li> In this project, to unable token authorization,you will have to add browser extension called ModHeader, this is the link where you can download https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en</li>
   </ol>
+  
+
 
 
   

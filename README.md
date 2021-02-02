@@ -19,8 +19,7 @@
   <li> Paste http://127.0.0.1:8000/admin/ in your browser and enter your superuser credentials</li>
   
   ## preview of the web page
-  
-  [Admin_login](admin_login_page.PNG)
+  ![Admin_login](admin_login_page.PNG)
   
   </ol>
   

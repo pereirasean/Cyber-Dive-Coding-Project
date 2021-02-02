@@ -10,6 +10,7 @@
       <li>pass: pass1234
     </ul>
   
+   ## preview of the Admin login page
   ![Django_login](Django_login.PNG)
       
 
@@ -22,7 +23,7 @@
   <li> run python manage.py runserver command in your command prompt to start the Django app</li>
   <li> Paste http://127.0.0.1:8000/admin/ in your browser and enter your superuser credentials</li>
   
-  ## preview of the Admin login page
+  ## preview of the Admin Dashboard
   ![Admin_login](admin_login_page.PNG)
   
   </ol>

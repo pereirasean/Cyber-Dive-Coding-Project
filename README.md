@@ -26,6 +26,18 @@
   ## preview of the Admin Dashboard
   ![Admin_login](admin_login_page.PNG)
   
+  
+  <li> To view all the api list put this end point in the browser : http://127.0.0.1:8000/api/
+  
+  <li> To view all the profile's created put this end point in the browser : http://127.0.0.1:8000/api/register/
+  
+  <li> To edit information like 
+         <ul>
+            <li> Email </li>
+            <li> Name  </li>
+            <li> Password </li>
+      </ul>
+  
   </ol>
   
 

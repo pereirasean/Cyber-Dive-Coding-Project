@@ -54,7 +54,7 @@
   
   
   ## preview of the ModHeader 
-   ![ModHeader](ModHeader.PNG)
+   ![ModHeader](Modheader.PNG)
    
  <li> Once the user is authorized he/she can edit their profile and change thier name, password and email address.
   

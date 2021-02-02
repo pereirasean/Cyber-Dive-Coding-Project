@@ -9,6 +9,7 @@
       <li>Name: Sean Pereira
       <li>pass: pass1234
     </ul>
+  
   ![Django_login](Django_login.PNG)
       
 

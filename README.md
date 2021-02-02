@@ -55,8 +55,15 @@
   
   ## preview of the ModHeader 
    ![ModHeader](ModHeader.PNG)
+   
+ <li> Once the user is authorized he/she can edit their profile and change thier name, password and email address.
+  
+  <li> To log-out use the follwoing end-point: http://127.0.0.1:8000/admin/logout/ and uncheck the token in Modheader.
+  
+  <li> Now if the user wants to edit their profile by logging in and going to thier profile section for e.g.  http://127.0.0.1:8000/api/register/1/ they will not be able to edit their profile a sthey donot have authorization or the reuqired token enables.
       
-
+ ## preview of the ModHeader 
+   ![Desable_user_edit](Disable_user_edit.PNG)
   
   
   </ol>

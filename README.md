@@ -63,7 +63,7 @@
   <li> Now if the user wants to edit their profile by logging in and going to thier profile section for e.g.  http://127.0.0.1:8000/api/register/1/ they will not be able to edit their profile a sthey donot have authorization or the reuqired token enables.
       
  ## preview after turning off token authorization in Modheader
-   ![Disable_user_edit](Disable_user_edit.PNG)
+   ![Disable_user_edit](Disabling_user_edit.PNG)
   
   
   </ol>

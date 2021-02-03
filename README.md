@@ -83,8 +83,8 @@ Administration: http://127.0.0.1:8000/admin/profiles_api/userprofile/ </li>
  ## preview of authenticating the new user to login
    ![Password change](preview_auth_user.jpg)
    
- ## Setting new user to login
-   ![Password change](preview_auth_user.jpg)
+ ## Setting new user to superuser to login 
+   ![Password change](set_super_user.PNG)
    
   </ol>
   

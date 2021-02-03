@@ -24,7 +24,7 @@
   <li> Paste http://127.0.0.1:8000/admin/ in your browser and enter your superuser credentials</li>
   
   ## preview of the Admin Dashboard
-  ![Admin_login](admin_login_page.PNG)
+  ![Admin_login](admin_login_page.jpg)
   
   
   <li> To view all the api list put this end point in the browser : http://127.0.0.1:8000/api/ </li>

@@ -74,7 +74,7 @@
  ## preview of changing password
    ![Password change](password.PNG)
    
-<li> To login with a newly registered user using Django admin, you need to logout from ypur current profile using http://127.0.0.1:8000/admin/logout/. </li>
+<li> To login with a newly registered user using Django admin, you need to logout from your current profile using http://127.0.0.1:8000/admin/logout/. </li>
     <ul>
         <li> Then login back using http://127.0.0.1:8000/admin/ endpoint </li>
     </ul>

@@ -71,8 +71,16 @@
       <li> You need to put your previous password correctly in order to change your password </li>
   </ul>
   
- ## preview of changing her password
+ ## preview of changing password
    ![Password change](password.PNG)
+   
+<li> To login with a newly registered user using Django admin, you need to set is_staff so that, the user can login with those details. </li>
+    <ul>
+        <li> Use this endpoint and click on the newly registered user you want to allow to login using the Django Administration:   http://127.0.0.1:8000/admin/profiles_api/userprofile/  </li>
+    </ul>
+    
+ ## preview of authenticating the new user to login
+   ![Password change](preview_auth_user.jpg)
    
   </ol>
   

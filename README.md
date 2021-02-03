@@ -5,9 +5,9 @@
   <li>To install all the dependencies for the project, use this command on your local machine terminal- pip install -r requirements.txt</li>
   <li>Super user credentials</li>
     <ul>
-      <li>Email: pereirasean1811@gmail.com
-      <li>Name: Sean Pereira
-      <li>pass: pass1234
+      <li>Email: pereirasean1811@gmail.com</li>
+      <li>Name: Sean Pereira</li>
+      <li>pass: pass1234</li>
     </ul>
   
    ## preview of the Admin login page
@@ -56,11 +56,11 @@
   ## preview of the ModHeader 
    ![ModHeader](Modheader.PNG)
    
- <li> Once the user is authorized he/she can edit their profile and change thier name, password and email address.
+ <li> Once the user is authorized he/she can edit their profile and change thier name, password and email address. </li>
   
-  <li> To log-out use the follwoing end-point: http://127.0.0.1:8000/admin/logout/ and uncheck the token in Modheader.
+  <li> To log-out use the follwoing end-point: http://127.0.0.1:8000/admin/logout/ and uncheck the token in Modheader. </li>
   
-  <li> Now if the user wants to edit their profile by logging in and going to thier profile section for e.g.  http://127.0.0.1:8000/api/register/1/ they will not be able to edit their profile a sthey donot have authorization or the reuqired token enables.
+  <li> Now if the user wants to edit their profile by logging in and going to thier profile section for e.g.  http://127.0.0.1:8000/api/register/1/ they will not be able to edit their profile a sthey donot have authorization or the reuqired token enables. </li>
       
  ## preview after turning off token authorization in Modheader
    ![Disable_user_edit](Disabling_user_edit.PNG)

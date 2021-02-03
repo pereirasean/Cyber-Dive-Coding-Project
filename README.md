@@ -74,13 +74,16 @@
  ## preview of changing password
    ![Password change](password.PNG)
    
-<li> To login with a newly registered user using Django admin, you need to set is_superuser to log in with those details. </li>
+<li> To login with a newly registered user using Django admin, you need to set Superuserstatus to log in with those details. </li>
     <ul>
         <li>Use this endpoint and click on the recently registered user you want to allow to login using the Django
 Administration: http://127.0.0.1:8000/admin/profiles_api/userprofile/ </li>
     </ul>
     
  ## preview of authenticating the new user to login
+   ![Password change](preview_auth_user.jpg)
+   
+ ## Setting new user to login
    ![Password change](preview_auth_user.jpg)
    
   </ol>
